@@ -1,3 +1,3 @@
-```
-Hello World 🎉
+```javascript
+  const helloWorld = "Hello World";
 ```
